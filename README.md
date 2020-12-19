@@ -1,0 +1,2 @@
+# Basefuncionesjs
+Codigo para reusar
